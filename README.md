@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zulqarnain
-- 👀 I’m interested in Project management, Requirment Engineering, Data Modeling and Hypothesis Testing  
+- 👀 I’m interested in N8N AI automation, AI Agents Project management, Requirement Engineering, Data Modeling, and Hypothesis Testing  
 - 🌱 I’m currently learning how to make such products more relevant to human behaviour. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me imzulqarnain1920@gmail.com
